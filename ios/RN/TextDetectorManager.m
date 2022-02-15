@@ -4,7 +4,6 @@
 //add all imports
 @import MLKitTextRecognition;
 @import MLKitTextRecognitionCommon;
-@import MLCompute;
 @import MLKitVision;
 
 @interface TextDetectorManager ()
